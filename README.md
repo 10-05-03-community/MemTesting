@@ -6,3 +6,4 @@
 
 # Динамичсекий анализ
 - https://pro-prof.com/forums/topic/cpp_memory_leaks
+- https://habr.com/ru/post/323380/
